@@ -107,7 +107,7 @@ function Bookingscreen({match}) {
                                 amount={totalAmount * 100}
                                 shippingAddress
                                 token={tokenHandler}
-                                stripeKey='pk_test_51KGvPYCeCMmEr0ZufM8shkMPQkgZC3o1sVhPeCjd3w7jjOIVLg3FFEDBM1GyCHPMkPUIVr3YhncLhXr0Xa69SiaV00BE3p6dkR'
+                                stripeKey='SECRET-STRIPE-KEY'
                                 currency='PLN'
                             >
 
