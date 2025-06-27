@@ -1,4 +1,4 @@
-# 🗪 Mercure Hotel Management App
+# 🏨 Mercure Hotel Management App
 
 A modern, responsive, multiplatform application that allows managing your hotel. 
 
