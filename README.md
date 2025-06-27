@@ -1,6 +1,6 @@
 # 🏨 Mercure Hotel Management App
 
-A modern, responsive, multiplatform application that allows managing your hotel. 
+A modern, responsive, multiplatform application that allows managing your hotel. Project was created during my studies.
 
 ## Features
 
