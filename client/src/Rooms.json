@@ -1,0 +1,77 @@
+[
+   {
+      "name":"Room 1",
+      "capacity":3,
+      "type":"Deluxe",
+      "costperday":1500,
+      "imageurls":[
+         "https://images.oyoroomscdn.com/uploads/hotel_image/56303/medium/597f0e48823f8885.jpg",
+         "https://images.oyoroomscdn.com/uploads/hotel_image/56303/medium/06883e94ec59702e.jpg",
+         "https://images.oyoroomscdn.com/uploads/hotel_image/56303/medium/91dead74a5dffa61.jpg"
+      ],
+      "currentbookings":[
+         
+      ],
+      "description":"Opis Room 1."
+   },
+   {
+      "name":"Room 2",
+      "capacity":2,
+      "type":"Deluxe",
+      "costperday":1500,
+      "imageurls":[
+         "https://images.oyoroomscdn.com/uploads/hotel_image/105649/large/8e80e24a5496eb80.jpg",
+         "https://images.oyoroomscdn.com/uploads/hotel_image/105649/large/caef038a4b97b589.jpg",
+         "https://images.oyoroomscdn.com/uploads/hotel_image/105649/large/46bffe91d06dcb96.jpg"
+      ],
+      "currentbookings":[
+         
+      ],
+      "description":"Opis Room 2."
+   },
+   {
+      "name":"Room 3",
+      "capacity":4,
+      "type":"Normal",
+      "costperday":2000,
+      "imageurls":[
+         "https://images.oyoroomscdn.com/uploads/hotel_image/107625/large/4488071a59d38cc5.jpg",
+         "https://images.oyoroomscdn.com/uploads/hotel_image/107625/large/d452b4897a767f6b.jpg",
+         "https://images.oyoroomscdn.com/uploads/hotel_image/107625/large/8f690e54761344e0.jpg"
+      ],
+      "currentbookings":[
+      
+      ],
+      "description":"Opis Room 3."
+   },
+   {
+      "name":"Room 4",
+      "capacity":2,
+      "costperday":1600,
+      "type":"Normal",
+      "imageurls":[
+         "https://images.oyoroomscdn.com/uploads/hotel_image/111796/large/e225bbf160a11c02.jpg",
+         "https://images.oyoroomscdn.com/uploads/hotel_image/111796/large/d55361043c9b52af.jpg",
+         "https://images.oyoroomscdn.com/uploads/hotel_image/111796/large/2f7029d3c5429b5f.jpg"
+      ],
+      "currentbookings":[
+         
+      ],
+      "description":"Opis Room 4."
+   },
+   {
+      "name":"Room 5",
+      "capacity":5,
+      "costperday":1800,
+      "type":"Normal",
+      "imageurls":[
+         "https://images.oyoroomscdn.com/uploads/hotel_image/38668/large/414e401312ad45a7.jpg",
+         "https://images.oyoroomscdn.com/uploads/hotel_image/38668/large/d24b920cfdddeecb.jpg",
+         "https://images.oyoroomscdn.com/uploads/hotel_image/38668/large/58025558878fa4ec.jpg"
+      ],
+      "currentbookings":[
+         
+      ],
+      "description":"Opis Room 5."
+   }
+]
